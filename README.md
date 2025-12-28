@@ -2,6 +2,8 @@
 
 A small Expo + Expo Router app scaffolded with create-expo-app. Includes a file-based `app/` router, Tailwind/nativewind support, and example UI components.
 
+**Assignment:** This project was created as an assignment for Sitegalleria Pvt Ltd to develop a Student Lead Management (SLM) application. The app demonstrates routing, state management, async storage and UI components for managing student leads.
+
 ## Quick start
 
 Prerequisites: Node.js and npm (or Yarn).
